@@ -11,8 +11,18 @@
 - **Startup Integration**: Optionally start the updater automatically with Windows.
 - **Dynamic Record Fetching**: Retrieves and displays DNS records from Cloudflare in a dropdown list for easy selection.
 
-## Screenshot
-![Software Window](Screenshot.png)
+## Installation
+
+You can install CloudflareDNSUpdater by following the instructions below.
+
+### Download
+
+- **Windows Executable:** You can download the Windows executable file from the [releases page](releases/windows_executable/CloudflareDNSUpdater.exe).
+
+### Using the Executable
+
+1. **Download the Executable:** Visit the [releases page](releases/windows_executable/CloudflareDNSUpdater_original.exe) and download `CloudflareDNSUpdater_original.exe`.
+2. **Run the Executable:** Double-click the downloaded file to start the application. If you are prompted for administrator privileges, grant them to allow the application to function correctly.
 
 ## Getting Started
 
