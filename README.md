@@ -31,23 +31,7 @@ You can install CloudflareDNSUpdater by following the instructions below.
 - **Python 3.6+**: Ensure Python 3.6 or higher is installed on your system.
 - **Python Packages**: Install the required packages using pip.
 
-### Installation
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/CloudflareDNSUpdater.git
-    cd CloudflareDNSUpdater
-    ```
-
-2. **Install Dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the Application**:
-    ```bash
-    python update_dns_gui.py
-    ```
 
 ### Usage
 
