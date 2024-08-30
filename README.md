@@ -17,11 +17,11 @@ You can install CloudflareDNSUpdater by following the instructions below.
 
 ### Download
 
-- **Windows Executable:** You can download the Windows executable file from the [releases page](releases/windows_executable/CloudflareDNSUpdater.exe).
+- **Windows Executable:** You can download the Windows executable file from the [releases page](releases/windows_executable/).
 
 ### Using the Executable
 
-1. **Download the Executable:** Visit the [releases page](releases/windows_executable/CloudflareDNSUpdater.exe) and download CloudflareDNSUpdater.exe`.
+1. **Download the Executable:** Visit the [releases page](releases/windows_executable/) and download CloudflareDNSUpdater.exe`.
 2. **Run the Executable:** Double-click the downloaded file to start the application. If you are prompted for administrator privileges, grant them to allow the application to function correctly.
 
 ## Getting Started
